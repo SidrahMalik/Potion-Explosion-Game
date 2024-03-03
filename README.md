@@ -3,5 +3,5 @@ C++ Project of My Operating System Course. It is a multiplayer game called "Poti
 <br>
 # Operating System Concepts Used
 <br>
-# Process Scheduling, Resource Management, File System Interaction, Winner and Scores Display.
+Process Scheduling, Resource Management, File System Interaction, Winner and Scores Display.
 
